@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Release\sidSecure.exe.config
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Release\sidSecure.exe
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Release\sidSecure.pdb
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Release\sidSecure.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Release\sidSecure.exe
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Release\sidSecure.pdb

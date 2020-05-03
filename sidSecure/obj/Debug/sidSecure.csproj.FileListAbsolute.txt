@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Debug\sidSecure.exe.config
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Debug\sidSecure.exe
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\bin\Debug\sidSecure.pdb
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Debug\sidSecure.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Debug\sidSecure.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Debug\sidSecure.exe
+C:\Users\Daniel\Desktop\sidSecure\sidSecure\obj\Debug\sidSecure.pdb
