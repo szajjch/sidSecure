@@ -114,9 +114,9 @@ namespace sidSecure
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Authentication failure. SID: (" + SID + ")");
                 }
-                Console.ReadKey(true);
                 dataReader.Close();
                 this.CloseConnection();
+                Console.ReadKey(true);
                 return list;
             }
             else
