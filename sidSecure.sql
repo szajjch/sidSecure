@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS sid;
+
+USE `sid`;
+
+CREATE TABLE `sidsecure` (
+	`name` VARCHAR(22) NOT NULL,
+	`sid` VARCHAR(255) NOT NULL
+);
