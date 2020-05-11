@@ -6,4 +6,6 @@ App secure system based on computer unique SID with MySQL connection
 - Once you get it done, change the data to connect to mysql
 - Then upload `sidsecure.sql` file to your MySQL
 - The `sidsecure` table has two columns `name` and `sid`. Fill both columns with the appropriate values
-- For the program to run in an executable file, its directory must contain the file `MySQL.Data.dll`
+- For the program to run in an executable file, its directory must contain the file `MySQL.Data.dll` you can include it in .exe file
+
+*You can use this code in any way, but please include me in credits <3*
